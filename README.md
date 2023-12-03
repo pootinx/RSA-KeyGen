@@ -1,65 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Project Name</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            background-color: #f5f5f5;
-            color: #333;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+<div align='center'>
 
-        h1 {
-            color: #0366d6;
-        }
+<h1>RSA-KeyGen</h1>
+<p>RSA KeyGen is a Python script for generating RSA key pairs, encrypting and decrypting messages, and creating certificates.</p>
 
-        h2 {
-            color: #1f6feb;
-        }
+<h4> <span> · </span> <a href="https://github.com/pootinx/RSA-KeyGen/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/pootinx/RSA-KeyGen/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/pootinx/RSA-KeyGen/issues"> Request Feature </a> </h4>
 
-        p {
-            margin-bottom: 1.5em;
-        }
-    </style>
-</head>
-<body>
 
-    <h1>Your Project Name</h1>
+</div>
 
-    <p>
-        Brief description of your project.
-    </p>
+# :notebook_with_decorative_cover: Table of Contents
 
-    <h2>Installation</h2>
+- [About the Project](#star2-about-the-project)
 
-    <p>
-        Provide instructions on how to install and set up your project.
-    </p>
 
-    <h2>Usage</h2>
+## :star2: About the Project
 
-    <p>
-        Explain how to use your project with examples if possible.
-    </p>
+### :dart: Features
+- Generate RSA key pairs (private and public keys).
+- Encrypt messages using RSA public keys.
+- Decrypt encrypted messages using RSA private keys.
+- Create X.509 certificates for key pairs.
 
-    <h2>Contributing</h2>
 
-    <p>
-        If you'd like to contribute to this project, please follow these guidelines.
-    </p>
+## :toolbox: Getting Started
 
-    <h2>License</h2>
+### :bangbang: Prerequisites
 
-    <p>
-        This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.
-    </p>
+- Make sure you have Python installed.
+- Install the required packages, you can install them by running the the scripte "install.py" :
+```bash
+python3 install.py
+```
 
-</body>
-</html>
+
+### :gear: Installation
+
+Clone the repository :
+```bash
+git clone https://github.com/pootinx/RSA-KeyGen.git
+```
+install the required packages :
+```bash
+python3 install.py
+```
+
+
+### :test_tube: Running Tests
+
+Run the python scripte "RSAKEYGEN.py"
+```bash
+python3 RSAKEYGEN.py
+```
