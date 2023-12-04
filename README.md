@@ -3,14 +3,12 @@
 <h1>RSA-KeyGen</h1>
 <p>RSA KeyGen is a Python script for generating RSA key pairs, encrypting and decrypting messages, and creating certificates.</p>
 
-<h4> <span> · </span> <a href="https://github.com/pootinx/RSA-KeyGen/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/pootinx/RSA-KeyGen/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/pootinx/RSA-KeyGen/issues"> Request Feature </a> </h4>
+
 
 
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
 
-- [About the Project](#star2-about-the-project)
 
 
 ## :star2: About the Project
